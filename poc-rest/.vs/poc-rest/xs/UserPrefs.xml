@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1DF332D5-5F59-4F13-8228-0C4930501A24}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="poc-rest/Controllers/ValuesController.cs">
+    <Files>
+      <File FileName="poc-rest/Controllers/ValuesController.cs" Line="21" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.poc-rest FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
